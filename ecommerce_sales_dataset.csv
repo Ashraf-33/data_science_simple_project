@@ -1,0 +1,511 @@
+OrderID,CustomerID,Gender,Age,ProductCategory,ProductName,Quantity,Price,OrderDate,Return
+1481,42,Female,16,Books,T-shirt,5,199,2022-08-07,No
+1450,30,Female,50,Clothing,Football,2,199,2022-08-06,No
+1476,53,Female,35,Sports,Puzzle,2,399,2022-06-15,Yes
+1435,75,Female,48,Books,Laptop,4,499,2023-01-26,No
+1369,118,Female,33,Clothing,Puzzle,1,299,2022-11-11,No
+1056,54,Other,67,Sports,Smartphone,3,199,2023-11-04,No
+1323,86,Female,55,Books,Watch,3,399,2022-04-14,No
+1077,71,Male,50,Home & Kitchen,Puzzle,4,399,2023-06-04,No
+1480,109,Female,18,Electronics,Watch,5,,2022-10-22,No
+1348,147,Male,40,Home & Kitchen,Football,4,999,2023-07-15,No
+1416,43,Female,32,Home & Kitchen,Headphones,5,399,2023-07-23,No
+1221,116,Male,68,Sports,Watch,2,,2023-02-03,No
+1118,143,Female,41,,Headphones,5,499,2022-09-04,No
+1250,109,Female,60,Home & Kitchen,Puzzle,3,999,2022-09-05,No
+1174,145,Male,48,Clothing,Smartphone,1,399,2023-09-17,No
+1094,33,Female,64,Home & Kitchen,T-shirt,2,1299,2022-09-09,Yes
+1326,15,Male,44,Books,Shoes,4,999,2022-07-17,No
+1276,95,Male,18,Electronics,Shoes,1,299,2022-06-18,No
+1343,144,Other,63,Electronics,Puzzle,5,499,2022-11-04,No
+1071,124,Female,40,Sports,Shoes,5,,2023-12-15,No
+1486,146,Female,64,Sports,Novel,4,999,2023-07-07,No
+1010,88,Male,42,Home & Kitchen,Watch,3,499,2023-03-10,No
+1251,51,Male,61,Home & Kitchen,Novel,4,299,2023-09-20,Yes
+1409,124,Female,51,Electronics,Headphones,3,1299,2023-07-19,No
+1424,35,Male,29,Sports,Watch,4,999,2022-01-19,No
+1452,113,Female,56,Books,Watch,5,999,2023-10-31,No
+1173,123,Other,33,Electronics,Smartphone,5,1499,2023-09-03,No
+1031,131,Female,66,Toys,Novel,5,299,2023-11-24,No
+1449,105,Female,32,Books,Puzzle,3,1299,2023-01-27,No
+1091,135,Female,64,Sports,Watch,1,,2023-11-12,Yes
+1382,69,Female,64,Electronics,Football,5,499,2023-08-15,No
+1132,44,Female,68,Electronics,Smartphone,4,1299,2023-08-23,No
+1365,1,Other,68,Books,Headphones,1,999,2022-09-27,No
+1074,45,Male,57,Home & Kitchen,Novel,1,1299,2022-01-03,No
+1211,140,Female,60,Books,Novel,5,499,2022-07-18,No
+1330,53,Male,49,Electronics,Laptop,5,1299,2022-06-16,Yes
+1370,48,Male,51,Sports,,4,199,2022-06-17,No
+1102,131,Female,36,Toys,Mixer,3,,2022-12-23,No
+1219,54,,63,Books,Football,3,499,2022-05-12,No
+1155,39,Male,59,Electronics,Watch,4,,2023-10-15,No
+1226,112,Male,64,Toys,Smartphone,1,499,2023-01-03,No
+1400,69,Male,43,Clothing,Novel,5,1499,2023-08-18,Yes
+1064,48,Other,17,Toys,,1,999,2023-01-25,No
+1003,15,Other,68,Home & Kitchen,Novel,1,499,2023-05-31,No
+1442,96,Female,38,Toys,Smartphone,1,499,2023-04-22,
+1341,55,Male,43,Sports,Shoes,5,1299,2022-09-19,No
+1083,139,Female,66,Clothing,Puzzle,3,1299,2023-12-22,No
+1285,67,Female,29,Home & Kitchen,Novel,1,199,2022-07-04,Yes
+1210,48,Female,18,Clothing,Mixer,1,1299,2023-12-01,No
+1472,99,Female,36,Electronics,Watch,5,999,2022-07-27,No
+1182,97,Female,49,Sports,Football,5,1299,2023-11-24,No
+1078,9,Female,18,Books,Headphones,2,399,2023-03-04,No
+1297,39,Male,27,Toys,Laptop,2,199,2022-09-29,No
+1453,62,Male,54,Sports,Shoes,3,1299,2022-07-21,No
+1496,5,Male,61,Sports,Watch,4,299,2023-12-20,No
+1426,90,Female,44,Home & Kitchen,Headphones,3,199,2022-07-16,No
+1034,21,Male,36,Books,T-shirt,4,999,2022-03-09,No
+1080,129,Other,52,Sports,,3,299,2022-08-23,No
+1418,29,Female,69,Clothing,Football,2,1299,2022-04-28,Yes
+1168,147,Male,19,Toys,Football,3,,2022-11-23,No
+1069,53,Male,32,Home & Kitchen,Novel,4,1499,2022-07-29,Yes
+1001,103,Male,27,Electronics,Football,5,1299,2023-04-16,No
+1085,136,Male,53,Books,Puzzle,1,,2022-11-29,No
+1012,100,Male,49,Sports,Watch,3,499,2022-05-23,No
+1230,128,Male,52,Clothing,,4,,2023-07-12,No
+1023,89,Male,61,Electronics,Mixer,4,,2022-01-26,No
+1324,49,Female,60,Toys,Shoes,1,399,2022-04-06,No
+1079,88,Male,65,Sports,Novel,1,1299,2023-05-08,No
+1248,22,Male,68,Home & Kitchen,Mixer,1,199,2023-04-16,No
+1073,15,Male,55,Books,Laptop,2,,2022-08-11,No
+1475,123,Other,52,Books,Headphones,4,1499,2023-08-09,No
+1336,109,Female,21,Clothing,Watch,1,399,2023-11-12,No
+1019,130,Female,32,Clothing,Smartphone,5,1299,2023-05-07,No
+1281,18,Female,62,Home & Kitchen,Mixer,5,1499,2023-06-21,No
+1125,66,Male,38,Books,Mixer,3,299,2023-05-10,No
+1443,37,Male,41,Sports,Watch,5,399,2023-02-08,No
+1249,38,Male,66,Sports,Football,1,299,2022-06-30,No
+1040,14,Female,54,Clothing,Headphones,1,1499,2022-04-12,No
+1461,147,Female,62,Sports,T-shirt,4,299,2023-11-12,No
+1047,111,Female,69,Electronics,Headphones,2,,2023-05-04,Yes
+1302,60,Male,40,Electronics,,2,1499,2022-06-11,No
+1196,82,Male,68,Electronics,Watch,1,399,2022-07-12,No
+1359,127,Male,46,Sports,Shoes,4,399,2023-03-28,No
+1105,142,Female,52,Sports,Watch,1,1499,2022-01-19,No
+1282,25,Female,40,Electronics,T-shirt,5,399,2022-04-22,No
+1149,118,Female,54,Clothing,Mixer,1,999,2023-04-01,No
+1156,130,Male,60,Home & Kitchen,Novel,1,199,2022-06-22,No
+1447,23,Male,44,Electronics,Football,3,399,2022-12-27,No
+1183,124,Male,45,Clothing,,5,999,2022-04-01,No
+1070,24,Other,16,Sports,Puzzle,2,1499,2023-08-13,No
+1245,33,Male,35,Sports,Watch,1,1499,2022-01-04,No
+1299,99,Male,24,Electronics,Football,4,399,2022-07-21,No
+1413,67,Male,32,Clothing,Mixer,3,299,2023-02-05,No
+1341,55,Male,43,Sports,Shoes,5,1299,2022-09-19,No
+1303,135,Female,20,Toys,Football,5,299,2022-09-11,No
+1494,27,Male,42,Books,,5,999,2022-11-05,No
+1181,144,Female,57,Sports,Puzzle,5,399,2022-04-26,No
+1375,69,Male,27,Electronics,Headphones,5,299,2022-12-02,No
+1133,84,Other,22,Home & Kitchen,,1,,2022-04-03,No
+1342,52,Male,48,Electronics,Laptop,2,399,2022-12-06,Yes
+1438,138,Male,30,Electronics,Mixer,4,199,2023-06-10,No
+1177,69,Female,57,Clothing,,4,1299,2023-12-19,No
+1311,115,Male,63,Sports,Watch,3,199,2023-03-12,No
+1350,120,Female,57,Electronics,T-shirt,3,999,2022-06-24,No
+1486,146,Female,64,Sports,Novel,4,999,2023-07-07,No
+1138,129,Female,65,Sports,Novel,3,399,2022-03-15,No
+1498,83,Male,32,Home & Kitchen,Puzzle,1,999,2022-03-14,No
+1272,37,Male,65,Home & Kitchen,Smartphone,3,399,2022-12-08,No
+1441,36,Male,26,Sports,Headphones,1,299,2022-05-08,Yes
+1354,58,Other,22,Clothing,Mixer,5,299,2022-03-06,No
+1087,123,Female,27,Home & Kitchen,Mixer,4,299,2023-06-07,Yes
+1076,89,,54,Electronics,Puzzle,3,1299,2022-04-03,No
+1448,99,Female,19,Toys,Puzzle,3,1499,2023-07-23,Yes
+1016,2,Male,22,Clothing,Laptop,1,1499,2023-06-13,No
+1204,90,Female,54,Toys,Shoes,2,,2023-10-23,No
+1275,46,Other,39,Toys,Laptop,5,399,2023-02-24,No
+1394,100,Other,45,Clothing,Mixer,2,199,2022-11-09,No
+1020,21,Female,41,Sports,Mixer,4,399,2022-07-18,No
+1454,84,Male,30,Electronics,Shoes,2,1499,2022-01-17,No
+1339,47,Female,31,Sports,Novel,3,299,2022-05-21,Yes
+1057,106,,58,Toys,Watch,4,,2023-02-26,Yes
+1334,103,Male,60,Home & Kitchen,T-shirt,2,,2023-08-16,No
+1305,36,Female,49,Electronics,Novel,4,1499,2023-10-13,No
+1239,148,Male,49,Toys,T-shirt,5,299,2022-10-10,No
+1406,128,Female,19,Sports,Shoes,5,1299,2022-04-23,
+1308,8,Male,53,Home & Kitchen,Mixer,1,399,2023-12-27,Yes
+1469,144,Male,59,Clothing,Headphones,3,399,2023-01-22,Yes
+1432,135,Male,22,Books,Football,5,199,2022-05-21,
+1490,145,,33,Electronics,,2,,2023-08-19,No
+1026,15,Male,58,Clothing,Shoes,4,399,2023-05-22,
+1366,34,Female,45,Sports,Football,3,1499,2023-11-05,No
+1043,53,Other,69,Toys,Watch,4,499,2023-12-01,Yes
+1141,121,Male,33,Clothing,Puzzle,3,399,2023-05-27,No
+1419,141,Female,16,Toys,Novel,5,199,2022-02-28,No
+1317,86,Female,28,Clothing,Football,2,1499,2023-12-30,No
+1127,62,Male,36,Sports,,4,,2023-03-03,No
+1333,5,Male,28,Home & Kitchen,Mixer,3,499,2022-11-09,No
+1032,51,Female,41,Toys,Mixer,5,199,2023-04-01,No
+1114,96,Male,30,Sports,Shoes,1,999,2022-09-30,No
+1154,12,Female,50,Sports,Shoes,5,299,2023-03-27,No
+1212,37,Male,29,Toys,,3,499,2022-10-30,No
+1423,130,Female,65,Sports,Smartphone,2,,2023-05-04,No
+1058,4,Female,32,Electronics,Puzzle,4,,2022-01-15,
+1267,46,Female,50,Home & Kitchen,T-shirt,3,999,2022-11-13,No
+1025,59,Female,69,Sports,Laptop,1,1499,2023-01-29,No
+1018,38,Male,60,Sports,Watch,1,499,2022-03-31,No
+1186,3,Male,33,Electronics,Puzzle,3,1499,2022-04-24,No
+1067,82,Female,24,Books,Laptop,3,1299,2023-08-21,No
+1403,24,Male,52,Clothing,Puzzle,3,1299,2023-05-15,No
+1397,147,Female,56,Electronics,Smartphone,1,299,2023-01-10,No
+1095,48,Male,62,Electronics,Shoes,2,1499,2023-07-14,No
+1497,29,Female,40,Clothing,Puzzle,5,499,2022-10-10,No
+1355,90,Female,20,Toys,Puzzle,1,,2023-04-19,No
+1024,49,Male,17,Home & Kitchen,T-shirt,3,1499,2022-01-25,No
+1232,82,Male,58,Sports,Novel,3,499,2023-05-20,No
+1266,17,Male,24,Clothing,Novel,5,,2022-03-26,No
+1209,129,Female,64,Electronics,Watch,4,,2022-04-19,No
+1006,21,Male,36,Clothing,Mixer,4,399,2023-01-28,No
+1117,132,Female,60,Sports,T-shirt,4,999,2023-03-26,No
+1046,92,Other,39,Toys,Laptop,2,399,2022-06-08,No
+1395,34,Male,22,Electronics,Watch,4,1299,2023-06-03,No
+1017,88,Male,25,Electronics,Mixer,4,299,2023-07-25,Yes
+1473,140,Male,62,Clothing,Laptop,1,1499,2023-05-29,No
+1462,76,Male,29,Toys,Football,3,1499,2022-03-23,No
+1004,107,,57,Electronics,Smartphone,2,1299,2023-08-25,No
+1228,93,Male,19,Books,Headphones,1,399,2022-04-22,No
+1483,122,Male,30,Electronics,Football,5,199,2023-05-10,No
+1061,44,Female,49,Sports,Novel,2,1299,2022-10-04,No
+1111,42,Female,33,Sports,Headphones,4,199,2023-07-25,No
+1325,70,Female,47,Sports,Watch,1,499,2023-02-27,
+1298,26,Female,57,Books,Laptop,2,499,2023-07-25,No
+1030,64,Male,51,Books,T-shirt,5,399,2023-04-06,Yes
+1193,52,Male,44,Home & Kitchen,Mixer,1,999,2023-12-16,Yes
+1465,128,Male,26,Toys,Mixer,5,1299,2023-03-01,No
+1027,51,Other,16,Toys,Laptop,3,399,2022-10-28,No
+1008,122,Female,46,Toys,Football,4,299,2023-10-07,No
+1463,9,Female,35,Toys,Puzzle,1,499,2023-04-19,No
+1109,15,Female,23,Home & Kitchen,Puzzle,5,199,2022-09-17,No
+1038,89,Female,51,Electronics,Puzzle,3,499,2023-11-18,No
+1158,113,Male,18,Toys,Laptop,1,299,2022-09-22,No
+1477,144,Male,21,Clothing,Shoes,1,199,2022-01-22,No
+1119,29,Male,62,Clothing,Headphones,2,,2023-06-04,No
+1115,52,Male,41,Sports,Laptop,1,,2023-09-11,No
+1176,24,Female,60,Sports,T-shirt,1,1499,2023-08-26,No
+1195,39,Male,44,Electronics,Watch,3,999,2022-04-15,Yes
+1319,63,Male,20,Books,,3,1299,2022-03-22,No
+1145,137,Male,54,Sports,Smartphone,5,999,2023-12-29,No
+1377,93,Male,17,Clothing,T-shirt,5,499,2023-06-09,No
+1430,115,Female,67,Sports,Laptop,1,299,2023-03-28,No
+1205,112,Female,35,Clothing,Watch,4,1299,2022-04-09,No
+1322,58,Male,65,Clothing,Shoes,2,499,2022-07-13,No
+1363,58,Female,47,Sports,Football,4,199,2023-05-03,No
+1455,112,Female,44,Home & Kitchen,Laptop,1,,2022-11-18,No
+1142,116,Female,46,Clothing,,1,1299,2022-06-05,No
+1495,122,Other,23,Home & Kitchen,Puzzle,3,299,2022-05-14,No
+1068,111,Female,55,Sports,Laptop,4,999,2023-03-22,No
+1262,147,Male,69,Books,Shoes,5,1299,2023-10-12,No
+1169,126,Female,44,Sports,Football,4,1499,2023-02-08,No
+1068,111,Female,55,Sports,Laptop,4,999,2023-03-22,No
+1384,94,Male,32,Sports,Puzzle,4,1299,2023-04-03,No
+1246,115,Female,44,Sports,Mixer,5,199,2022-10-17,No
+1194,128,Female,64,Electronics,Puzzle,4,399,2022-02-10,No
+1256,30,Male,56,Books,Headphones,5,199,2023-11-12,No
+1110,90,Female,40,Home & Kitchen,Headphones,5,999,2023-09-12,No
+1488,9,Male,39,Clothing,,3,399,2022-04-18,Yes
+1146,62,Male,50,Sports,Football,1,,2022-06-19,No
+1093,12,Other,25,Home & Kitchen,,5,199,2023-08-03,No
+1153,52,Female,39,Home & Kitchen,Mixer,5,,2022-12-15,Yes
+1229,146,Female,27,Electronics,T-shirt,5,1499,2023-09-07,No
+1417,44,Male,25,Books,Novel,5,1499,2022-03-10,Yes
+1084,81,Male,45,Home & Kitchen,Shoes,1,999,2022-11-27,No
+1273,24,Other,33,Books,Shoes,3,399,2022-02-07,No
+1166,87,Female,30,Books,Novel,1,299,2023-08-24,No
+1164,130,Male,59,Home & Kitchen,Puzzle,1,299,2022-05-09,No
+1200,42,Male,62,Electronics,Shoes,4,1499,2023-08-03,No
+1238,48,Female,28,Clothing,T-shirt,5,,2022-10-07,No
+1075,65,Female,40,Electronics,Mixer,5,999,2023-06-02,No
+1315,66,Female,52,Sports,Laptop,1,199,2022-04-12,No
+1223,113,Male,30,Electronics,Football,3,1299,2022-04-19,No
+1480,109,Female,18,Electronics,Watch,5,,2022-10-22,No
+1120,36,Male,47,Clothing,Headphones,3,199,2022-05-21,No
+1287,24,Male,49,Toys,Novel,2,,2023-05-11,No
+1305,36,Female,49,Electronics,Novel,4,1499,2023-10-13,No
+1425,81,Male,62,Clothing,,5,399,2023-12-27,No
+1361,140,Female,57,Clothing,Puzzle,3,,2022-02-12,
+1408,140,Male,47,Electronics,Mixer,2,299,2022-05-06,No
+1235,33,Male,61,Home & Kitchen,Shoes,2,1299,2023-02-25,No
+1381,29,Male,42,Sports,Novel,3,999,2023-12-17,No
+1479,39,Female,20,Electronics,Laptop,3,399,2023-03-15,No
+1391,23,Male,63,Clothing,Watch,1,399,2023-05-29,No
+1279,67,Male,53,Clothing,Watch,4,499,2023-06-26,No
+1037,132,Female,26,Sports,Smartphone,3,299,2022-02-18,Yes
+1197,104,Male,59,Toys,Puzzle,2,199,2023-02-05,No
+1140,27,Female,44,Sports,Headphones,2,,2023-09-05,No
+1372,117,Female,29,Clothing,Smartphone,1,,2022-07-12,No
+1254,27,Male,49,Electronics,Football,2,1299,2022-09-11,No
+1290,86,Female,18,Electronics,T-shirt,5,399,2023-07-05,No
+1291,127,Female,43,Books,Laptop,1,999,2023-06-12,No
+1060,146,Male,58,Sports,,3,1499,2022-05-02,No
+1112,124,Female,40,Electronics,Smartphone,4,1499,2022-05-05,No
+1090,28,,59,Electronics,Puzzle,3,399,2023-08-05,No
+1269,6,Female,64,Home & Kitchen,Puzzle,1,399,2023-05-30,No
+1007,103,Male,42,Toys,Football,4,399,2023-09-23,No
+1368,126,,46,Sports,T-shirt,3,999,2023-12-29,No
+1352,19,Male,42,Books,Headphones,4,499,2022-07-02,No
+1393,69,Male,34,Home & Kitchen,Headphones,5,199,2022-01-22,No
+1159,101,Male,52,Clothing,Headphones,4,299,2023-03-14,No
+1151,113,Male,29,Home & Kitchen,Laptop,3,399,2023-09-05,No
+1178,116,Male,59,Electronics,Smartphone,3,,2022-01-17,No
+1422,46,Male,33,Books,Puzzle,5,499,2022-02-19,No
+1185,93,Female,28,Sports,Laptop,5,999,2022-11-20,No
+1288,114,Male,26,Home & Kitchen,Laptop,4,,2023-01-14,No
+1011,117,Other,55,Electronics,Novel,5,499,2022-11-27,No
+1389,33,Female,60,Books,Mixer,3,499,2023-03-04,No
+1104,5,Male,38,Books,Puzzle,2,1299,2022-10-01,Yes
+1082,63,Female,59,Sports,Shoes,2,,2022-06-10,No
+1039,60,Female,64,Home & Kitchen,Shoes,5,399,2023-07-18,No
+1321,58,Female,32,Clothing,Mixer,2,999,2022-03-29,No
+1199,11,Male,59,Electronics,Mixer,5,1299,2022-12-20,No
+1263,4,,62,Electronics,Puzzle,1,999,2023-11-11,No
+1147,51,Male,33,Clothing,T-shirt,3,299,2022-11-18,Yes
+1401,4,Other,30,Sports,Watch,2,999,2022-06-28,No
+1148,59,Male,57,Clothing,T-shirt,4,999,2023-07-21,No
+1313,92,Female,33,Sports,Shoes,2,499,2022-06-02,No
+1292,130,Male,44,Clothing,,3,199,2023-05-19,No
+1124,28,Male,32,Clothing,Watch,3,399,2022-12-18,No
+1376,22,Male,54,Clothing,Mixer,4,399,2023-01-25,No
+1097,37,Male,31,Clothing,Shoes,4,399,2023-11-30,No
+1144,103,Male,67,Electronics,Headphones,4,999,2022-06-20,No
+1240,128,Male,40,Clothing,T-shirt,1,1499,2022-02-09,No
+1278,116,Other,50,Sports,Puzzle,3,499,2022-11-02,No
+1098,99,Other,39,Home & Kitchen,Shoes,1,299,2022-03-31,No
+1357,62,Other,60,Clothing,Football,2,199,2023-06-28,No
+1123,86,Female,22,Books,Smartphone,3,499,2023-04-23,No
+1184,70,Female,28,Home & Kitchen,Mixer,4,1499,2022-03-23,No
+1203,144,Female,40,Clothing,Puzzle,3,1499,2023-10-13,No
+1247,119,Male,69,Clothing,Football,5,1499,2023-03-09,Yes
+1312,143,Male,41,Home & Kitchen,Smartphone,1,,2022-04-21,Yes
+1415,74,Female,37,Clothing,Watch,3,199,2023-06-01,No
+1358,23,Female,66,Sports,Novel,4,1299,2022-05-08,No
+1306,20,Other,39,Books,Headphones,4,999,2023-04-25,No
+1404,80,Male,44,Books,Laptop,3,999,2023-04-09,No
+1383,47,Other,56,Toys,Smartphone,2,,2023-07-09,No
+1126,45,Other,41,Home & Kitchen,T-shirt,2,1499,2023-08-29,No
+1489,74,Female,27,Clothing,Smartphone,5,499,2023-02-07,No
+1224,104,Male,24,Sports,Laptop,1,1299,2022-08-09,
+1427,8,Other,27,Clothing,Novel,4,499,2023-03-26,No
+1220,120,Female,16,Sports,Watch,4,999,2022-03-25,Yes
+1130,28,Male,29,Home & Kitchen,Football,3,299,2022-07-06,No
+1429,90,Male,50,Sports,Laptop,4,499,2023-11-10,No
+1485,75,Female,50,Sports,T-shirt,5,,2022-01-20,No
+1335,6,Female,48,Electronics,Football,1,199,2023-02-22,No
+1385,144,Male,55,Books,,2,1299,2022-03-30,No
+1410,33,Male,65,Electronics,Headphones,3,199,2022-11-27,No
+1362,129,Male,25,Clothing,Watch,3,1299,2023-02-23,No
+1300,50,Female,30,Clothing,T-shirt,1,199,2022-02-01,No
+1295,137,Female,40,Home & Kitchen,Headphones,4,299,2022-11-06,No
+1374,16,Female,44,Electronics,,4,499,2022-10-10,
+1347,106,Other,60,Home & Kitchen,Headphones,1,199,2023-07-29,No
+1113,63,Male,27,Clothing,Smartphone,4,999,2022-12-20,No
+1180,139,Male,50,Electronics,Novel,2,1499,2023-11-16,No
+1478,57,Female,34,Home & Kitchen,Puzzle,2,,2022-06-03,No
+1353,92,Female,53,Sports,T-shirt,3,1499,2022-07-11,Yes
+1337,116,Female,39,Clothing,T-shirt,4,1499,2023-04-22,
+1492,141,Male,59,Books,Mixer,5,999,2023-01-02,Yes
+1405,2,,37,Toys,Shoes,3,999,2022-05-04,No
+1234,68,Male,54,Toys,Puzzle,4,1499,2022-09-28,No
+1457,141,Male,26,Clothing,Mixer,4,999,2023-07-24,No
+1318,51,Male,43,Toys,Laptop,3,199,2023-07-17,Yes
+1165,54,Male,54,Books,Novel,3,299,2023-11-03,No
+1137,92,Male,23,Sports,Smartphone,3,1299,2023-02-25,No
+1198,129,Male,31,Books,Laptop,1,199,2022-10-05,No
+1259,111,Male,21,Toys,Novel,3,299,2023-07-20,No
+1233,54,,21,Books,Football,3,1499,2023-04-20,No
+1116,96,Female,56,Books,T-shirt,3,,2022-09-02,No
+1121,13,Male,25,Clothing,Watch,1,1499,2022-12-28,No
+1356,117,Female,58,Books,Watch,5,199,2022-04-10,No
+1225,84,Male,30,Clothing,Headphones,1,1499,2023-07-07,Yes
+1411,101,Female,19,Clothing,Laptop,3,499,2022-10-10,No
+1439,101,Female,47,Clothing,Smartphone,5,,2022-08-03,Yes
+1128,134,Female,37,Sports,Puzzle,5,1499,2022-02-08,No
+1286,104,Male,52,Sports,Laptop,5,1299,2023-01-17,No
+1433,58,Male,44,Electronics,Football,5,499,2022-03-25,Yes
+1108,137,Female,21,Home & Kitchen,Puzzle,1,499,2023-01-25,No
+1378,76,Female,47,,Smartphone,1,1299,2022-08-28,No
+1332,108,Female,42,Toys,Watch,5,1499,2023-09-30,
+1134,30,Male,24,Electronics,Watch,1,499,2022-03-27,No
+1371,89,Other,17,Sports,T-shirt,4,,2022-12-05,No
+1045,84,Male,62,Home & Kitchen,Watch,4,999,2023-07-13,No
+1471,69,Male,44,Sports,Watch,3,499,2022-12-11,No
+1066,40,Other,24,Sports,Puzzle,2,1499,2023-07-28,No
+1284,58,Male,19,Sports,T-shirt,5,399,2022-07-25,No
+1086,33,Male,49,Toys,Laptop,5,499,2022-02-19,No
+1243,145,Female,19,Clothing,Football,5,499,2023-06-20,Yes
+1187,148,Male,47,Clothing,Shoes,4,199,2022-02-27,No
+1392,10,Female,21,,Puzzle,1,999,2023-01-11,No
+1160,113,Male,58,Clothing,Smartphone,1,499,2022-09-04,No
+1013,104,Female,27,Sports,Puzzle,3,,2023-06-24,No
+1036,18,Other,55,Electronics,T-shirt,2,399,2023-05-06,No
+1029,55,Other,68,Sports,Mixer,5,199,2022-09-24,No
+1171,53,Male,40,Electronics,Headphones,2,499,2023-08-29,No
+1143,3,Male,45,Toys,Watch,4,499,2022-09-12,No
+1407,84,Female,35,Home & Kitchen,Headphones,4,,2022-01-12,No
+1032,51,Female,41,Toys,Mixer,5,199,2023-04-01,No
+1222,75,Male,61,Clothing,Watch,2,1499,2023-09-20,No
+1096,62,Female,27,Home & Kitchen,Novel,3,399,2023-11-27,No
+1052,104,Female,62,Clothing,Laptop,5,999,2022-12-27,Yes
+1241,136,Female,22,Clothing,Watch,3,399,2022-07-08,No
+1399,1,Female,49,Books,Shoes,1,499,2023-09-18,No
+1387,39,Female,49,Home & Kitchen,Puzzle,3,499,2022-04-05,No
+1179,98,Male,17,Electronics,Shoes,3,1299,2022-10-01,No
+1042,90,Female,50,Books,Football,1,1499,2023-03-14,No
+1445,113,Male,61,Clothing,Shoes,5,999,2022-12-04,No
+1396,138,Female,25,Toys,Mixer,4,1299,2022-07-25,No
+1207,113,Female,16,Toys,,5,299,2022-10-09,No
+1283,54,Female,24,Electronics,Shoes,4,999,2023-02-15,No
+1255,21,Female,41,Sports,T-shirt,5,1299,2022-06-30,No
+1421,95,Male,41,Electronics,Laptop,5,1299,2022-11-14,No
+1005,72,Female,37,Books,,2,199,2022-04-14,No
+1257,97,Female,64,Home & Kitchen,T-shirt,1,1499,2023-05-24,No
+1458,19,Male,67,Electronics,T-shirt,5,199,2022-11-21,
+1101,101,Female,46,Electronics,Mixer,1,199,2022-05-19,No
+1227,99,Male,39,,Mixer,2,999,2022-05-27,Yes
+1250,109,Female,60,Home & Kitchen,Puzzle,3,999,2022-09-05,No
+1214,99,Male,65,Electronics,Smartphone,4,299,2022-06-03,No
+1437,21,Male,62,Electronics,Mixer,5,1499,2022-08-03,No
+1172,68,Female,28,,Football,1,299,2023-11-06,No
+1099,104,Female,34,Clothing,,4,,2023-03-22,No
+1293,17,Female,24,Toys,,5,299,2022-01-22,No
+1216,48,Female,33,Toys,Headphones,4,299,2023-10-07,No
+1062,14,Female,24,Sports,Smartphone,4,399,2023-07-12,No
+1048,8,Female,37,Books,Laptop,5,1499,2023-11-17,No
+1033,135,,44,Books,Watch,2,399,2022-12-26,No
+1268,117,Female,35,Clothing,T-shirt,3,499,2022-07-31,No
+1328,101,Male,18,Electronics,Mixer,4,199,2023-02-11,No
+1201,99,Male,25,Books,Laptop,4,199,2023-12-10,Yes
+1456,86,Male,44,Home & Kitchen,Novel,5,,2023-06-02,
+1028,108,Male,66,Books,,1,,2022-12-05,Yes
+1398,96,Male,47,Books,Mixer,4,999,2023-03-27,No
+1231,110,Female,52,Electronics,Shoes,2,299,2023-05-09,
+1261,48,Male,20,Toys,T-shirt,1,199,2022-12-23,No
+1379,144,Male,28,Home & Kitchen,Laptop,1,499,2023-04-28,Yes
+1289,32,Female,56,Sports,Smartphone,2,499,2022-02-16,No
+1163,2,Female,38,Clothing,Puzzle,3,499,2023-05-14,Yes
+1434,114,Female,26,Clothing,Smartphone,3,1499,2023-11-25,No
+1139,121,,38,Electronics,Headphones,3,399,2023-07-02,No
+1063,95,Male,41,Clothing,Puzzle,4,399,2023-03-29,No
+1136,128,Female,63,Sports,Puzzle,1,1499,2022-05-17,No
+1129,28,Female,22,Clothing,Smartphone,3,199,2023-08-16,No
+1487,76,Male,40,Clothing,Headphones,3,1299,2022-05-28,No
+1009,75,Female,21,Electronics,Mixer,2,,2023-08-31,No
+1327,54,Female,66,Books,Mixer,3,299,2022-01-01,No
+1474,25,Male,31,Home & Kitchen,Smartphone,3,499,2023-09-28,No
+1065,15,Female,68,Toys,Football,5,999,2022-10-21,No
+1301,13,Female,55,Books,T-shirt,4,,2023-03-19,No
+1015,53,Female,68,Sports,Mixer,3,1499,2022-08-21,No
+1157,131,Male,49,Sports,Novel,1,1499,2022-01-10,No
+1041,9,Female,55,Clothing,T-shirt,3,1499,2022-08-04,No
+1380,86,Male,61,Clothing,,4,499,2023-10-21,No
+1470,117,Female,43,Clothing,Puzzle,4,999,2022-04-08,No
+1412,12,Male,42,Clothing,Smartphone,2,1299,2022-05-20,No
+1217,131,Female,52,Sports,T-shirt,4,499,2023-02-09,No
+1280,128,Male,28,Electronics,Football,5,299,2023-12-03,No
+1482,142,Male,53,Clothing,Shoes,4,1499,2023-10-31,No
+1440,99,Male,66,Toys,Football,5,499,2023-02-07,No
+1338,94,Female,34,Clothing,Novel,3,,2022-03-14,No
+1237,21,Female,26,Toys,Watch,1,299,2023-01-02,Yes
+1208,2,Male,45,Clothing,Headphones,3,499,2023-02-07,No
+1213,9,Male,45,Books,,4,,2022-11-23,No
+1296,43,Male,49,Electronics,Football,2,999,2023-10-23,No
+1500,109,Female,68,Electronics,T-shirt,1,499,2022-12-18,No
+1252,8,Male,25,Electronics,Mixer,4,299,2022-10-06,No
+1499,136,Female,44,Home & Kitchen,Headphones,4,1499,2023-04-26,No
+1468,111,Female,32,Sports,,2,,2023-08-06,No
+1304,57,Male,26,Home & Kitchen,,3,1499,2023-06-05,No
+1351,63,Female,51,Clothing,Puzzle,2,999,2022-04-19,No
+1270,99,Female,57,Books,Puzzle,5,199,2023-01-19,No
+1202,7,Male,45,Electronics,T-shirt,1,1499,2022-09-13,No
+1162,113,Male,41,Sports,Mixer,5,1299,2023-06-30,No
+1044,130,Male,49,Electronics,Mixer,1,1499,2023-07-23,No
+1218,148,Male,40,Toys,T-shirt,5,1299,2023-04-07,No
+1402,16,Male,45,Electronics,Mixer,5,299,2022-07-29,No
+1191,148,Female,61,Home & Kitchen,Novel,1,999,2022-09-23,No
+1310,142,Female,20,Electronics,T-shirt,2,999,2023-07-14,No
+1260,61,Male,20,Books,Novel,1,,2022-11-22,No
+1106,103,Female,69,Books,Football,5,399,2022-11-07,No
+1054,2,Female,34,Books,Laptop,4,199,2022-09-05,No
+1390,101,Male,50,Electronics,Watch,3,399,2022-05-31,No
+1002,93,Female,38,Home & Kitchen,Mixer,5,299,2022-08-06,No
+1451,17,Male,28,Toys,,2,299,2023-07-28,No
+1493,137,Male,31,Books,Shoes,4,199,2023-02-18,No
+1050,81,Male,48,Clothing,Headphones,5,,2022-01-05,No
+1420,12,Female,37,Toys,Laptop,2,499,2022-02-02,Yes
+1081,136,Female,59,Home & Kitchen,Laptop,2,299,2023-09-12,No
+1206,60,Female,20,Sports,Smartphone,5,299,2023-08-11,No
+1035,73,Female,26,Electronics,Smartphone,4,1299,2023-02-16,No
+1431,105,Male,27,Home & Kitchen,Smartphone,1,1299,2022-10-16,No
+1264,35,Male,38,Electronics,Mixer,1,499,2023-01-26,No
+1428,93,Male,51,Home & Kitchen,Football,2,299,2023-07-13,No
+1367,96,Male,54,Electronics,Headphones,2,999,2023-12-02,No
+1092,72,Female,32,Clothing,T-shirt,4,1299,2022-09-29,No
+1340,99,Male,55,Clothing,Smartphone,1,,2023-08-05,No
+1484,133,Male,49,Sports,Novel,1,,2022-08-18,No
+1053,132,Male,35,Sports,Smartphone,1,199,2023-04-04,No
+1346,124,Female,58,Sports,Football,1,1499,2022-12-03,No
+1265,49,Female,64,Home & Kitchen,Watch,1,199,2023-09-07,No
+1242,135,Other,67,Sports,Puzzle,3,199,2022-06-13,No
+1014,131,Male,60,Clothing,Novel,2,1299,2022-10-05,No
+1316,32,Female,63,Electronics,Football,2,499,2022-07-10,No
+1089,41,,52,Electronics,Mixer,3,,2023-05-07,No
+1388,100,Male,39,Home & Kitchen,Novel,3,999,2023-03-28,No
+1274,93,Female,32,Home & Kitchen,Shoes,5,199,2023-05-26,No
+1167,129,Female,64,Home & Kitchen,,4,999,2023-08-28,
+1329,8,Female,55,Home & Kitchen,T-shirt,3,999,2023-01-13,No
+1048,8,Female,37,Books,Laptop,5,1499,2023-11-17,No
+1135,75,Other,66,Home & Kitchen,Laptop,2,1299,2022-02-13,No
+1307,65,Female,30,Clothing,Watch,1,999,2022-01-10,No
+1491,7,Female,30,Sports,Shoes,3,399,2023-04-28,No
+1320,125,Male,28,Sports,Shoes,5,199,2023-05-04,No
+1244,128,Female,23,Sports,Shoes,4,199,2023-06-20,No
+1055,134,Male,50,Electronics,Watch,2,199,2023-07-20,No
+1364,122,Other,58,Home & Kitchen,Watch,4,499,2022-03-19,No
+1051,50,Male,51,Toys,Headphones,4,499,2023-08-19,No
+1466,52,Male,42,Electronics,Football,3,499,2023-11-20,No
+1175,38,Male,31,Electronics,Mixer,5,,2022-12-25,No
+1446,13,Male,49,Sports,Novel,5,299,2023-12-15,Yes
+1190,147,Female,54,Clothing,Novel,5,1299,2023-09-20,No
+1311,115,Male,63,Sports,Watch,3,199,2023-03-12,No
+1464,28,Female,37,Clothing,Puzzle,4,199,2023-04-13,No
+1188,147,Female,47,Toys,Football,1,199,2022-06-03,No
+1170,130,Female,37,Home & Kitchen,,4,1499,2023-09-21,No
+1059,54,Female,60,Toys,Mixer,1,399,2023-07-27,No
+1049,35,Female,20,Clothing,Puzzle,3,199,2022-08-30,No
+1345,114,Male,28,Sports,T-shirt,1,499,2023-05-30,No
+1236,142,Other,39,Toys,Mixer,1,299,2023-12-08,No
+1253,27,Female,58,Sports,Watch,1,,2023-08-04,No
+1022,22,Other,43,,Smartphone,5,1299,2023-03-17,No
+1314,98,Female,21,Books,,5,399,2023-09-27,Yes
+1460,140,Male,17,Electronics,T-shirt,3,1499,2022-11-14,No
+1161,81,Male,55,Clothing,Mixer,3,,2023-10-29,No
+1277,99,Female,47,Toys,Football,4,499,2022-12-09,No
+1444,12,Female,49,Home & Kitchen,Smartphone,2,1299,2022-01-29,No
+1192,96,Male,67,Clothing,Headphones,5,999,2022-11-11,No
+1386,85,Female,46,Electronics,T-shirt,4,199,2023-10-22,No
+1294,104,Male,18,Books,,1,1499,2022-08-01,No
+1414,65,Male,27,Clothing,T-shirt,2,399,2022-04-07,No
+1344,13,Female,56,Clothing,Headphones,5,199,2022-09-02,No
+1258,28,Female,18,Home & Kitchen,Laptop,2,,2023-12-01,No
+1309,144,Other,23,Electronics,Headphones,4,999,2023-05-20,No
+1150,96,Male,32,Toys,Shoes,4,399,2023-08-26,No
+1131,108,Female,30,Home & Kitchen,Mixer,3,1299,2023-08-19,No
+1152,62,Female,46,Clothing,Puzzle,4,1299,2022-06-04,Yes
+1360,137,Female,38,Home & Kitchen,Novel,2,1299,2023-01-04,No
+1100,35,Male,23,Books,Watch,4,299,2022-11-28,No
+1373,129,Female,28,Home & Kitchen,Watch,2,1499,2023-03-29,
+1088,5,Female,34,Electronics,T-shirt,3,199,2023-10-30,No
+1459,100,Male,47,Books,Watch,4,199,2023-02-16,No
+1331,60,Male,55,Clothing,Mixer,2,,2023-05-24,Yes
+1215,147,Male,19,Books,Headphones,4,1299,2023-07-06,Yes
+1467,83,Male,18,Electronics,T-shirt,5,,2022-07-23,No
+1122,71,Male,31,Home & Kitchen,Novel,3,199,2022-01-08,
+1091,135,Female,64,Sports,Watch,1,,2023-11-12,Yes
+1021,58,Female,36,Home & Kitchen,Mixer,3,199,2022-12-28,
+1189,90,Female,50,Sports,Shoes,5,199,2023-02-08,No
+1072,41,Male,58,Sports,Mixer,4,299,2022-10-29,No
+1107,27,Female,31,Books,Laptop,3,199,2022-06-03,No
+1271,124,Male,50,Books,Smartphone,3,199,2023-11-22,No
+1349,145,Female,68,Books,Headphones,5,299,2022-03-17,Yes
+1436,120,Male,21,Clothing,Watch,1,,2023-08-14,
+1103,1,Male,32,Home & Kitchen,Football,4,1499,2023-08-24,No
